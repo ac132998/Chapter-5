@@ -1,0 +1,11 @@
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\DisplayMultiplicationTable\DisplayMultiplicationTable\bin\Debug\netcoreapp2.0\DisplayMultiplicationTable.deps.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\DisplayMultiplicationTable\DisplayMultiplicationTable\bin\Debug\netcoreapp2.0\DisplayMultiplicationTable.runtimeconfig.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\DisplayMultiplicationTable\DisplayMultiplicationTable\bin\Debug\netcoreapp2.0\DisplayMultiplicationTable.runtimeconfig.dev.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\DisplayMultiplicationTable\DisplayMultiplicationTable\bin\Debug\netcoreapp2.0\DisplayMultiplicationTable.dll
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\DisplayMultiplicationTable\DisplayMultiplicationTable\bin\Debug\netcoreapp2.0\DisplayMultiplicationTable.pdb
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\netcoreapp2.0\DisplayMultiplicationTable.csprojAssemblyReference.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\netcoreapp2.0\DisplayMultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\netcoreapp2.0\DisplayMultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\netcoreapp2.0\DisplayMultiplicationTable.AssemblyInfo.cs
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\netcoreapp2.0\DisplayMultiplicationTable.dll
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\netcoreapp2.0\DisplayMultiplicationTable.pdb

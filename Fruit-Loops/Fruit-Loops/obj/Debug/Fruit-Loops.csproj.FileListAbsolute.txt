@@ -1,0 +1,10 @@
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\Fruit-Loops\Fruit-Loops\bin\Debug\Fruit-Loops.exe.config
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\Fruit-Loops\Fruit-Loops\bin\Debug\Fruit-Loops.exe
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\Fruit-Loops\Fruit-Loops\bin\Debug\Fruit-Loops.pdb
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\Fruit-Loops\Fruit-Loops\obj\Debug\Fruit-Loops.csprojAssemblyReference.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\Fruit-Loops\Fruit-Loops\obj\Debug\Fruit_Loops.Form1.resources
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\Fruit-Loops\Fruit-Loops\obj\Debug\Fruit_Loops.Properties.Resources.resources
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\Fruit-Loops\Fruit-Loops\obj\Debug\Fruit-Loops.csproj.GenerateResource.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\Fruit-Loops\Fruit-Loops\obj\Debug\Fruit-Loops.csproj.CoreCompileInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\Fruit-Loops\Fruit-Loops\obj\Debug\Fruit-Loops.exe
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\Fruit-Loops\Fruit-Loops\obj\Debug\Fruit-Loops.pdb

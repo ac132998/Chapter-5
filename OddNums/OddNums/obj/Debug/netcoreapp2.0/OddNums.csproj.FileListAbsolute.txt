@@ -1,0 +1,11 @@
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\OddNums\OddNums\obj\Debug\netcoreapp2.0\OddNums.csprojAssemblyReference.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\OddNums\OddNums\obj\Debug\netcoreapp2.0\OddNums.csproj.CoreCompileInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\OddNums\OddNums\obj\Debug\netcoreapp2.0\OddNums.AssemblyInfoInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\OddNums\OddNums\obj\Debug\netcoreapp2.0\OddNums.AssemblyInfo.cs
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\OddNums\OddNums\bin\Debug\netcoreapp2.0\OddNums.deps.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\OddNums\OddNums\bin\Debug\netcoreapp2.0\OddNums.runtimeconfig.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\OddNums\OddNums\bin\Debug\netcoreapp2.0\OddNums.runtimeconfig.dev.json
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\OddNums\OddNums\bin\Debug\netcoreapp2.0\OddNums.dll
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\OddNums\OddNums\bin\Debug\netcoreapp2.0\OddNums.pdb
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\OddNums\OddNums\obj\Debug\netcoreapp2.0\OddNums.dll
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 5\OddNums\OddNums\obj\Debug\netcoreapp2.0\OddNums.pdb
